@@ -1,3 +1,3 @@
-# Infinity Horizons
+# Shikanime Studio
 
-Infinity Horizons website.
+Shikanime Studio website.
